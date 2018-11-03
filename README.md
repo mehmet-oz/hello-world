@@ -1,3 +1,6 @@
 # hello-world
 ilk repository
-this is second
+i am mehmet özdemir 
+but this name was taken 
+therefıre i chose mehmet-oz
+added this
