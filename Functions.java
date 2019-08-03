@@ -13,7 +13,8 @@ public class Functions {
         
            System.out.print(""+ y + ", ");
            
-       }
+       } 
+        //commenting here
     }
     static void palindrome(){
         System.out.print("Enter a String: ");
